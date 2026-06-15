@@ -1,0 +1,11 @@
+.env
+Setup_And_Backup.bat
+Setup_And_Backup.ps1
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.ipynb_checkpoints/
+.vscode/
+.idea/
+*.lnk
